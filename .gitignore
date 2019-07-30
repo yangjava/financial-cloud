@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.iml
+out
+gen
+
+/rcc-biz/target/
+/rcc-dao/target/
+/rcc-model/target/
+/rcc-service/target/
